@@ -1,0 +1,10 @@
+C:\LeiLin\USX28452\Downloads\weatherdatadownload\weatherdatadownload\bin\Debug\weatherdatadownload.exe.config
+C:\LeiLin\USX28452\Downloads\weatherdatadownload\weatherdatadownload\bin\Debug\weatherdatadownload.exe
+C:\LeiLin\USX28452\Downloads\weatherdatadownload\weatherdatadownload\bin\Debug\weatherdatadownload.pdb
+C:\LeiLin\USX28452\Downloads\weatherdatadownload\weatherdatadownload\obj\Debug\weatherdatadownload.csprojResolveAssemblyReference.cache
+C:\LeiLin\USX28452\Downloads\weatherdatadownload\weatherdatadownload\obj\Debug\weatherdatadownload.csproj.ResolveComReference.cache
+C:\LeiLin\USX28452\Downloads\weatherdatadownload\weatherdatadownload\obj\Debug\weatherdatadownload.Form1.resources
+C:\LeiLin\USX28452\Downloads\weatherdatadownload\weatherdatadownload\obj\Debug\weatherdatadownload.Properties.Resources.resources
+C:\LeiLin\USX28452\Downloads\weatherdatadownload\weatherdatadownload\obj\Debug\weatherdatadownload.csproj.GenerateResource.Cache
+C:\LeiLin\USX28452\Downloads\weatherdatadownload\weatherdatadownload\obj\Debug\weatherdatadownload.exe
+C:\LeiLin\USX28452\Downloads\weatherdatadownload\weatherdatadownload\obj\Debug\weatherdatadownload.pdb
